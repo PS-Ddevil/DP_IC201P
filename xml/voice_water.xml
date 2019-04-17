@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice" language="en-US">Hello out there. Can I get some water. I feel very thirsty</Say>
+</Response>
